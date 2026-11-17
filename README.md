@@ -22,4 +22,4 @@ Senior Software Engineer based in Hamburg, with 9+ years shipping fullstack Type
 
 Most of my work lives in private company and product repositories, so this profile shows activity rather than source. Happy to walk through architecture and code in a conversation.
 
-[LinkedIn](https://www.linkedin.com/in/peter-craft/)
+[LinkedIn](https://www.linkedin.com/in/peter-craft/) · [chodur.apps@pm.me](mailto:chodur.apps@pm.me)
